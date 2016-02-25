@@ -48,6 +48,9 @@ figure h1 {
   top: 0%;
   right: -30%;
 }
+img {
+  width: 195px;
+}
 header,
 figure,
 p {
