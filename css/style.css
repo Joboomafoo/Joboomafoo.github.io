@@ -1,0 +1,90 @@
+main {
+  background: url("http://socialforest.org/wp-content/uploads/2014/04/Forest-Green-Wallpaper.jpg");
+  margin: 0 auto;
+  width: 95%;
+  font-family: "courier new";
+  color: white;
+  font-size: 1em;
+}
+nav {  
+background: url("http://fullblowncoatings.com/wp-content/uploads/2014/08/Wood-grain-finish.jpg");
+padding: 0.3%;
+margin: 0% 0% 1% 0%;
+}
+.nav {
+text-align: center;
+}
+#span {
+font-size: 2em;
+}
+li a {
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 2em;
+}
+li {
+  display: inline;
+  list-style-type: none;
+  text-decoration: none;
+}
+
+header {
+  padding: 0.5% 1% 0.5% 1%;
+  margin: 0.5%;
+  border-radius: 10%;
+}
+figure {
+  background: black;
+  border-radius: 3%;
+  width: 200px;
+  height: 200px;
+  padding: 0.4%;
+  position: relative;
+}
+figure h1 {
+  position: absolute;
+  top: 0%;
+  right: -30%;
+}
+header,
+figure,
+p {
+float: left;
+}
+header p {
+  margin-top: 4%;
+  margin-left: 7%;
+  width: 50%;
+  font-size: 1.1em;
+}
+.container article {
+  opacity: 1;
+}
+.container {
+ background: url("http://fullblowncoatings.com/wp-content/uploads/2014/08/Wood-grain-finish.jpg");
+  margin: 1%;
+  border-radius: 2%;
+}
+.education,
+.objskill {
+  float: left;
+  margin: 2% 0% 2% 2%;
+}
+.education {
+  width: 38%;
+}
+.objskill {
+  width: 58%;
+}
+.volunteer {
+  margin: 10px;
+  clear: left;
+  padding: 0 0 3% 0;
+}
+
+footer { background:url("http://fullblowncoatings.com/wp-content/uploads/2014/08/Wood-grain-finish.jpg");
+  margin: 3% 0% 0% 0%;
+  clear: both;
+}
