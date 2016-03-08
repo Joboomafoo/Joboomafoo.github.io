@@ -1,0 +1,53 @@
+/* Thumbnails */
+
+section {
+  display: inline;
+}
+
+section.ione img, .itwo img, .ithree img, .ifour img, .ifive img {
+  border: 4px solid darkolivegreen;
+  padding: 5px;
+  margin: 5px;
+  height: 250px;
+  width: 250px;
+}
+
+/* Lightbox Stuff */
+.lb {
+	display: none;
+	position: fixed!important;
+	z-index: 999;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	background: rgba(0,0,0,0.8);
+  text-align:center;
+}
+
+.lb img {
+	max-width: 90%;
+	max-height: 80%;
+	margin-top: 6%;
+}
+
+.lb:target {
+	outline: none;
+	display: block;
+}
+
+a.lb:hover {cursor:default;}
+img:hover {cursor:pointer;}
+
+div {
+  height: 1000px;
+  width: 1000px;
+  margin: 0 auto;
+  border: 10px darkolivegreen solid;
+  background: #000;
+  text-align:center;
+}
+h1 {
+  font: 80px courier;
+  color: darkolivegreen;
+}
