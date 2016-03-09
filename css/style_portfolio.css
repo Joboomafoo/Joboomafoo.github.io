@@ -44,10 +44,28 @@ div {
   width: 1000px;
   margin: 0 auto;
   border: 10px darkolivegreen solid;
-  background: #000;
+  background: url("../IMG/metaltext.jpg");
   text-align:center;
 }
-h1 {
-  font: 80px courier;
-  color: darkolivegreen;
+nav {  
+padding: 0.3%;
+margin: 0% 0% 1% 0%;
+}
+.nav {
+text-align: center;
+}
+#span {
+font-size: 2em;
+}
+li a {
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 2em;
+}
+li {
+  display: inline;
+  list-style-type: none;
+  text-decoration: none;
 }
