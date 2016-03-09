@@ -1,5 +1,5 @@
 main {
-  background: img ("IMG/metaltext.jpg");
+  background: img src="IMG/metaltext.jpg";
   margin: 0 auto;
   width: 90%;
   font-family: "courier new";
