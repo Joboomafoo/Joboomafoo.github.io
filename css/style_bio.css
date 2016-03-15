@@ -1,5 +1,9 @@
+body {
+  background: url(../IMG/homepage.jpg) top center no-repeat;
+  background-size: cover;
+}
+
 main {
-  background: url("../IMG/metaltext.jpg");
   margin: 0 auto;
   width: 90%;
   font-family: "courier new";
