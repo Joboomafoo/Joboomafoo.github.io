@@ -55,7 +55,6 @@ ul.contact{
   margin: 2em auto;
   min-width: 800px;
   text-align: center;
-  background: darkolivegreen;
 }
 ul.contact li{
   display: inline-block;
@@ -75,7 +74,7 @@ ul.contact li span{
   text-align: center;
   margin: auto;
   color: #FFFFFF;
-  font-family: georgia;
+  font-family: arial;
 }
 ul.contact li span:nth-of-type(1){
   font-size: 1.5em;
