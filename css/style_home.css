@@ -9,6 +9,7 @@
 
 .header {
   justify-content: space-between;
+  float: right;
 }
 
 .nav {
