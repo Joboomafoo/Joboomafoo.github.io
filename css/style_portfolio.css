@@ -40,8 +40,9 @@ a.lb:hover {cursor:default;}
 img:hover {cursor:pointer;}
 
 div {
+  height: 1500px;
+  width: 1500px;
   margin: 0 auto;
-  border: 10px darkolivegreen solid;
   background: url("../IMG/homepage.jpg");
   text-align:center;
 }
