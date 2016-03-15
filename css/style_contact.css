@@ -49,6 +49,7 @@ h1{
   padding: 40px 0px 40px 0px;
   min-width: 800px;
   font-family: arial;
+  color: #fff;
 }
 ul.contact{
   width: 90%;
@@ -77,7 +78,7 @@ ul.contact li span{
   font-family: arial;
 }
 ul.contact li span:nth-of-type(1){
-  font-size: 1.5em;
+  font-size: 1em;
 }
 @-webkit-keyframes move{
   000% {left: 1000px;}
