@@ -49,8 +49,7 @@ body {
 
 .name {
   color: #fff;
-  position: relative;
-  left: 40px;
+  float: left;
 }
 
 .nav {
