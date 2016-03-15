@@ -39,12 +39,9 @@ section.ione img, .itwo img, .ithree img, .ifour img, .ifive img {
 a.lb:hover {cursor:default;}
 img:hover {cursor:pointer;}
 
-div {
-  height: 95%;
-  width: 95%;
-  margin: 0 auto;
-  background: url("../IMG/homepage.jpg");
-  text-align:center;
+body {
+background: url(../IMG/homepage.jpg) top center no-repeat;
+background-size: cover;
 }
 nav {  
 padding: 0.3%;
