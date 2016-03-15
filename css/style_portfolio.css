@@ -1,5 +1,10 @@
 /* Thumbnails */
 
+div {
+position: relative;
+left: 40px;
+}
+
 section {
   display: inline;
 }
